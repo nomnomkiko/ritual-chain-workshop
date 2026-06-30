@@ -66,9 +66,8 @@ by calling `depositToRitualWallet()` with some testnet tokens before calling
 - `hardhat/contracts/AIJudgeCommitReveal.sol` — main contract
 - `hardhat/contracts/utils/PrecompileConsumer.sol` — Ritual-provided precompile helper
 - `hardhat/ignition/modules/AIJudgeCommitReveal.ts` — deployment script
-- `hardhat/test/AIJudgeCommitReveal.test.ts` — test suite
+- `hardhat/test/AIJudgeCommitReveal.test.ts` — test suite (see `docs/TEST_PLAN.md` for explanation)
 - `docs/ARCHITECTURE.md` — commit-reveal vs Ritual-native comparison
-- `docs/REFLECTION.md` — answer to the reflection question
 
 ## Reflection
 
